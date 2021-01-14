@@ -1,3 +1,5 @@
+//This code was written with munraj-grewal and samjanderson
+
 const wordSearch = (letters, word) => { 
 
     let vertical = [];
